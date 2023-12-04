@@ -1,0 +1,1 @@
+# basic cmd python program that uses a simple equation to work out weekly spending money allowance after deducting rent from maintenance loan 
