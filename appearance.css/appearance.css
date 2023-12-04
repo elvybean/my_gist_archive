@@ -1,0 +1,23 @@
+/* 
+{
+font-family: 'Monocraft', serif !important;
+}
+@font-face {
+    font-family: 'Monocraft', monospace;
+    src: url(fonts/Moncraft.ttf) format('truetype');
+  }
+body {
+--font-monospace: 'Monocraft', monospace;
+src: url('fonts/Moncraft.otf');
+}
+.markdown-source-view {
+  --font-monospace: 'Monocraft', monospace;
+}
+.markdown-preview-view {
+  --font-monospace: 'Monocraft', monospace;
+}
+*/
+
+:root {
+    --default-font: 'Monocraft', monospace;
+    }
