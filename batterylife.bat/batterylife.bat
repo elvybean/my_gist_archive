@@ -1,0 +1,1 @@
+powershell -Command "& {powercfg /batteryreport /output "C:\battery-report.html"}"

@@ -1,0 +1,1 @@
+# Windows PowerShell command to genrate a html document that details a laptop's current battery health 
