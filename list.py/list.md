@@ -1,1 +1,0 @@
-# Remove all items but the last element 

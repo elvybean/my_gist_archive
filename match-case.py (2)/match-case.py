@@ -1,3 +1,4 @@
+# Playing around with python match-cases (again) 
 def func(x):
     match x == 10:
         case True:

@@ -1,3 +1,4 @@
+# Shows the correct way to manipulate variables using an external function
 def testFunc(var: int):
     var += 5
     var -= 3

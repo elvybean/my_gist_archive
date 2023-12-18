@@ -1,1 +1,0 @@
-# Python program that calculates how many miles you have to run each day in order to run the distance to the moon before you turn a certain age 

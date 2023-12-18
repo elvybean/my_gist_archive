@@ -1,3 +1,5 @@
+# over-engineered fizzbuzz implementation 
+# using match-case statements AND lambda functions for absolutely no reason 
 def main():
     fizz = lambda i: i % 3 == 0
     buzz = lambda i: i % 5 == 0

@@ -1,1 +1,0 @@
-# Seeing how if statements work with a colon 

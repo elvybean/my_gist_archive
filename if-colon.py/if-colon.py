@@ -1,3 +1,4 @@
+# Seeing how if statements work with a colon
 x = False
 
 if x: # Checks for true

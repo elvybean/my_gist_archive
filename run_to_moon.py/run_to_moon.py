@@ -1,3 +1,6 @@
+# Python program that calculates how many miles you have to run each day 
+# in order to run the distance to the moon before you turn a certain age 
+
 moon_distance = 225623 #this is the average distance, the furthest distance is 252088 and the shortest is 225623
 years = int(input("Please enter the years you're going to keep this up"))
 current_age = int(input("Please enter yur current age"))

@@ -1,1 +1,0 @@
-# python script that calculates the number of possible serial numbers for Star Wars Astromech Droids from the same line as R2-D2 (P, Q and R series)

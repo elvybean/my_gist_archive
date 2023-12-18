@@ -1,3 +1,5 @@
+# Solving the "Fill a stadium with drops of 1ml but 
+# every second the amount of drops each time doubles" 
 def power(base: int, exp: int):
     org_base = base
     for i in range(exp):

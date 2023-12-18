@@ -1,3 +1,6 @@
+# basic cmd python program that uses a simple equation to work 
+# out weekly spending money allowance after deducting rent from maintenance loan 
+
 loop = 1
 while type(loop) == int:
     maintenanceLoan = input("\n\n\nInput Maintenance Loan:  ")

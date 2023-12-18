@@ -1,1 +1,0 @@
-# Simple implementation to FizzBuzz 
