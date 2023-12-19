@@ -2,10 +2,6 @@
 
 archive of my previously created gist that have since been deleted 
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Authors
 
 Elvis Obero-Atkins - [Github](https://github.com/elvybean/)
